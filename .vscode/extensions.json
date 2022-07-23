@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "editorconfig.editorconfig",
     "jnoortheen.nix-ide",
     "arrterian.nix-env-selector",
     "tamasfe.even-better-toml",
